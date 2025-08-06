@@ -1,4 +1,4 @@
- Simple To-Do List Web Application
+
 This is a straightforward and responsive To-Do List web application built using fundamental web technologies. It allows users to manage their daily tasks efficiently, with data persistence powered by the browser's local storage.
 
 ✨ Features
